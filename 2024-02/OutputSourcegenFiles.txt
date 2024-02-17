@@ -1,0 +1,6 @@
+To enable outputting source generated files add the following scripting define:
+DOTS_OUTPUT_SOURCEGEN_FILES
+
+Edit > Project Settings > Player > Other Settings > Scripting Define Symbols > +
+
+Files can be found at Temp/GeneratedCode/*** in your project directory.
