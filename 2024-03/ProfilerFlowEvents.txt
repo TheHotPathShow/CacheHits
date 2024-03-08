@@ -1,0 +1,6 @@
+To get visual arrows that show what systems schedule what jobs in the Profiler...
+1. Open the Profiler (Ctrl + 7) or Window > Analysis > Profiler
+2. Ensure Profiler is set to the Timeline view (visual representation of script profile)
+3. Using the Additional Options Menu (...) at the top right of the Timeline section of the Profiler, select "Show Flow Events"
+4. Arrows now appear on systems that schedule jobs and jobs that are scheduled by systems
+5. Clicking on a system or job with an arrow, will show the full flow indicating which system schedules which jobs
