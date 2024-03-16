@@ -1,0 +1,3 @@
+Jackson Dunstan Blog
+- for vs. foreach assembly - https://www.jacksondunstan.com/articles/4713
+- Temp allocations - https://www.jacksondunstan.com/articles/5461
