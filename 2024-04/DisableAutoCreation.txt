@@ -1,0 +1,6 @@
+Using [DisableAutoCreation] for debugging
+
+- Works with SystemBase and ISystem
+- If you suspect a system may be causing some unexpected behavior, disable it to eliminate the possibility of that system causing it
+- When refactoring a system for a better implementation, disable the original system, then create a new system. Now you can use the attribute to toggle between the two to compare
+- Can be used if you want to control when a system is created, i.e. from a UI/game event or when the scene loads
